@@ -1,0 +1,2 @@
+# DENPAR854_PTO2306_GroupB_DenelleParsuramen_IWA7
+Strings and Logical Operators
