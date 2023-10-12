@@ -1,3 +1,3 @@
-const value = 3; //change data type from string to number
+const value = "3"; 
 
-console.log(value + 4 + value);
+console.log(parseInt(value) + 4 + parseInt(value)); //convert using parseInt
